@@ -1,0 +1,17 @@
+{
+  "name": "mikluko",
+  "owner": {
+    "name": "Mikhail Lukianchenko",
+    "url": "https://github.com/mikluko"
+  },
+  "plugins": [
+    {
+      "name": "machine-debian",
+      "source": {
+        "source": "github",
+        "repo": "mikluko/machine-debian"
+      },
+      "description": "Apple `container` machine tooling and the apple-container skill (macOS containerization)."
+    }
+  ]
+}
