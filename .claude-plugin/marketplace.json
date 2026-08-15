@@ -16,10 +16,11 @@
     {
       "name": "octant",
       "source": {
-        "source": "github",
-        "repo": "mikluko/octant"
+        "source": "git-subdir",
+        "url": "https://github.com/mikluko/octant.git",
+        "path": "harness/claude"
       },
-      "description": "Octant: one personal daemon holding every effort across every repo, reached as an MCP server — the surface skill plus the /octant working loop."
+      "description": "Octant: one personal daemon holding every effort across every repo, reached as an MCP server — the surface, driver, worker and install skills plus the /octant:work loop."
     }
   ]
 }
